@@ -67,6 +67,9 @@ This project was built to practice:
 
 <img width="652" height="860" alt="calc-screenshot" src="https://github.com/user-attachments/assets/2b419693-68f2-4999-9555-f1abcb7f58f2" />
 
+## 🌍 Live Demo
+
+https://rinshudeveloper.github.io/interactive-calculator/
 
 ## ⚠️ Limitations
 
